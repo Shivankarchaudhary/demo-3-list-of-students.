@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class IteratorDemo {
+public class StudentService {
     public static List<Student> getAllStudents(){
         Student student = new Student("William","101",56);
         Student student1 = new Student("Jerry","102",87);
